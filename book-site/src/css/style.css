@@ -1,0 +1,27 @@
+body {
+    background-color: lemonchiffon;
+}
+
+h1 {
+    text-align: center;
+    font-size: 18px;
+    color: darkred;
+}
+
+h2 {
+    text-align: center;
+    font-size: 16px;
+    color: darkred
+}
+
+p {
+    font-size: 14px;
+}
+
+.upper-text {
+    text-transform: uppercase;
+}
+
+.italic-text {
+    font-style: italic;
+}
